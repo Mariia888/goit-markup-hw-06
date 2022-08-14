@@ -694,14 +694,14 @@ ul {
   text-align: initial;
 }
 
-.section-list-item {
+/*__.section-list-item {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 500;
 
   display: flex;
   margin-top: 30px;
-}
+}__*/
 
 .our-team-list-item {
   width: 270px;
